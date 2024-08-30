@@ -1,8 +1,8 @@
-M   M   OOO  N   N  K   K  III
-MM MM  O   O NN  N  K  K    I 
-M M M  O   O N N N  KKK     I 
-M   M  O   O N  NN  K  K    I 
-M   M   OOO  N   N  K   K  III
+M   M   OOO  N   N  K   K  III <br>
+MM MM  O   O NN  N  K  K    I  <br>
+M M M  O   O N N N  KKK     I  <br>
+M   M  O   O N  NN  K  K    I  <br>
+M   M   OOO  N   N  K   K  III <br>
 ![image](https://github.com/user-attachments/assets/6d80b8df-ffd3-4be3-a84c-b4eceabf2a49)
 
 :monkey:
