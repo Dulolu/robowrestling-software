@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/d4b9d4d4-ef5c-4b90-8a0f-791887de813e)
 M   M   OOO  N   N  K   K  III <br>
 MM MM  O   O NN  N  K  K    I  <br>
 M M M  O   O N N N  KKK     I  <br>
